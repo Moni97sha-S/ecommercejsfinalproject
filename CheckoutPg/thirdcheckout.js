@@ -57,6 +57,7 @@ $(document).ready(function () {
 
             // Redirect to Order Confirmation Page
             console.log(typeof data);
+            console.log(data);
             console.log(data.length);
 
             // let counter = n;
